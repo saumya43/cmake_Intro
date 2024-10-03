@@ -1,0 +1,3 @@
+/home/ubuntu/cmake/cmake_Intro/out/build/CMakeFiles/ubuntu.dir
+/home/ubuntu/cmake/cmake_Intro/out/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/cmake/cmake_Intro/out/build/CMakeFiles/rebuild_cache.dir
